@@ -1,0 +1,21 @@
+*{
+    letter-spacing: 2px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    }
+
+.inputFile{
+    display: none;
+    }
+    
+label{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    }
